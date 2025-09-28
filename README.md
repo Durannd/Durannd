@@ -79,18 +79,6 @@ Highlights:
 
 ---
 
-## 📊 GitHub Stats
-<!-- Tip: These cards are from third-party services. If they don't load, try again or remove them. -->
-<p align="center">
-  <img height="160" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Durannd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durannd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-<p align="center">
-  <img height="160" alt="Streak" src="https://streak-stats.demolab.com?user=Durannd&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 💼 Experience
 
 - Competitive Programming:
