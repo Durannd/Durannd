@@ -32,12 +32,10 @@
 - [About me](#-about-me)
 - [Skills](#-skills)
 - [Featured Projects](#-featured-projects)
-- [GitHub Stats](#-github-stats)
 - [Experience](#-experience)
 - [Education & Certifications](#-education--certifications)
 - [Content](#-content)
 - [Contact](#-contact)
-- [Notes & Personalization](#-notes--personalization)
 
 ---
 
