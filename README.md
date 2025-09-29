@@ -19,7 +19,6 @@
   <!-- TODO: Update the links below -->
   <a href="mailto:ricaelmenezes@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/Email-Send-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/durand-ricael/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://SEU_PORTFOLIO.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-10b981?style=for-the-badge&logo=firefox&logoColor=white"></a>
 
 <p align="center">
   <img alt="Fast response" src="https://img.shields.io/badge/Response%20time-fast-3b82f6?style=flat-square">
