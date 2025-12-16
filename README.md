@@ -1,112 +1,144 @@
-<!--
-🔧 Quick personalization guide:
-1) Search for TODO: and replace with your information.
-2) Remove sections that don't make sense for you.
-3) Update links, colors, and icons in badges (https://shields.io/).
-4) Commit this file to the Durannd/Durannd repository to become your GitHub profile.
--->
-
-<!-- Banner or photo (optional). Replace the URL with your own image/art -->
-
-
 <h1 align="center">Hi, I'm Ricael 👋</h1>
 
 <p align="center">
-  <b>Java Developer</b> • Spring • JavaFX • SQL • JavaScript • HTML • CSS
+  <b>Backend Developer</b> • Java • Spring Boot • REST APIs • Clean Code
 </p>
 
 <p align="center">
-  <!-- TODO: Update the links below -->
   <a href="mailto:ricaelmenezes@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/Email-Send-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/durand-ricael/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
-<p align="center">
-  <img alt="Fast response" src="https://img.shields.io/badge/Response%20time-fast-3b82f6?style=flat-square">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Durannd&label=Views&color=0e75b6&style=flat-square">
+  <a href="https://github.com/Durannd"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
-
----
-
-## 🧭 Table of Contents
-- [About me](#-about-me)
-- [Skills](#-skills)
-- [Featured Projects](#-featured-projects)
-- [Experience](#-experience)
-- [Education & Certifications](#-education--certifications)
-- [Content](#-content)
-- [Contact](#-contact)
 
 ---
 
 ## 🙋 About me
-- 💡 Interests: Software Development with Java/Spring, visual interfaces with JavaFX/Thymeleaf.
-- 🚀 Current goal: Land my first job as a Back-End Developer.
-- 📍 Location: São Paulo, Brazil
+
+I'm a backend developer from São Paulo, Brazil, passionate about building scalable REST APIs with Java and Spring Boot. Currently focused on mastering software architecture, clean code principles, and preparing for my first professional role.
+
+- 🎯 **Goal:** Land a junior backend developer position at an international company
+- 💡 **Interests:** Spring Boot, REST APIs, system design, clean architecture
+- 📚 **Currently Learning:** Spring Security, Docker, microservices
+- 📍 **Location:** São Paulo, Brazil
 
 ---
 
-## 🧰 Skills
-<!-- Tip: adjust to reflect your real stack. Add/remove items. -->
-- Languages: ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-- Frameworks/Libs: ![JavaFX](https://img.shields.io/badge/JavaFX-1f2937?logo=oracle&logoColor=white) ![JDBC](https://img.shields.io/badge/JDBC-0ea5e9?logo=databricks&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
-- Databases: ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white)
-- Tools: ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white)
-- Testing & Quality: ![JUnit](https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white) ![SonarLint](https://img.shields.io/badge/SonarLint-CC2026?logo=sonarlint&logoColor=white)
-- Others: ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
+## 🧰 Tech Stack
 
-Highlights:
-- Architecture: layered (DAO/Service), MVC with JavaFX, clear separation of concerns
-- Databases: relational modeling, basic migrations, query best practices
-- Version control: Git flow, PRs, conventional commits
+**Languages:**
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+**Frameworks & Libraries:**
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?logo=spring&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?logo=spring&logoColor=white)
+
+**Databases:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
+
+**Tools & Platforms:**
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ---
 
 ## 🌟 Featured Projects
 
-### 1) CadastroDeUsuarios ✅
-- Repository: [Durannd/CadastroDeUsuarios](https://github.com/Durannd/CadastroDeUsuarios)
-- What it is: Users catalog system.
-- Tech: Java, SQL (Oracle Cloud), Thymeleaf, Spring Boot.
-- Lessons learned: <!-- TODO: e.g., password hashing, layering, tests -->
+### 1) MovieFlix - REST API
+**Repository:** [Durannd/MovieFlix](https://github.com/Durannd/MovieFlix)
 
-### 2) MovieFlix
-- Repository: [MovieFlix](https://github.com/Durannd/MovieFlix)
-- Tech: Java, SQL, Spring Boot, JWT.
-- What it is: REST API to catalog movies.
+**What it does:**
+REST API for movie catalog management with user authentication and role-based access control.
+
+**Tech Stack:**
+Java • Spring Boot • Spring Security • JWT • PostgreSQL • Maven
+
+**Key Features:**
+- User registration and login with JWT authentication
+- Movie CRUD operations with pagination
+- Role-based authorization (ADMIN, USER)
+- Input validation and error handling
+
+**What I Learned:**
+- Implementing JWT token-based authentication
+- Spring Security configuration and best practices
+- RESTful API design principles
+- Database relationships and JPA mapping
+- Proper error handling with custom exceptions
+
+---
+
+### 2) CadastroDeUsuarios - User Management System
+**Repository:** [Durannd/CadastroDeUsuarios](https://github.com/Durannd/CadastroDeUsuarios)
+
+**What it does:**
+Full-stack user registration and management system with web interface.
+
+**Tech Stack:**
+Java • Spring Boot • Thymeleaf • PostgreSQL • HTML/CSS
+
+**Key Features:**
+- User registration with validation
+- User listing and search functionality
+- Update and delete operations
+- Responsive web interface
+
+**What I Learned:**
+- Spring MVC architecture and Thymeleaf templating
+- Form validation and error messages
+- Database transactions and data persistence
+- Layered architecture (Controller → Service → Repository)
 
 ---
 
 ## 💼 Experience
 
-- Competitive Programming:
-  - At my school, I’m a scholarship student in a competitive programming project, where we teach algorithms and data structures and prepare students for olympiads and marathons.
-<!-- Keep bullets short; focus on impact and results. -->
- <!-- TODO: Role @ Company (Period) -->
-   <!-- TODO: e.g., Built a JavaFX + JDBC CRUD that reduced registration time by 40% -->
-   <!-- TODO: e.g., Modeled a relational database and implemented safe transactions -->
- <!-- TODO: Role @ Personal/Volunteer Project (Period) -->
-<!-- TODO: e.g., Mentored beginners in Java with practical materials and examples -->
+**Teaching & Mentoring**
+- Developed and taught algorithms and data structures curriculum to 40 students
+- Focused on competitive programming preparation for olympiads and marathons
+- Collaborated with 8 teaching assistants to optimize learning materials
+- Result: Students improved problem-solving skills and participated in programming competitions
 
 ---
 
 ## 🎓 Education & Certifications
-- SENAI Tatuapé — Oracle Java Foundations (2025)
-- Data Structure and Algorithms — Augusto Galego (2025)
-- IFSP — Integrated High School Technical Course in Informatics (2024 — Ongoing)
 
-## 📝 Content
-- Articles: <!-- TODO: links to articles/medium/dev.to/github pages -->
-- Talks/Presentations: <!-- TODO: slides/live coding -->
-- Study repos: <!-- TODO: links to study notebooks -->
+- **IFSP** — Integrated High School Technical Course in Informatics for Internet (2024 — Ongoing, concludes 2027)
+- **SENAI** — Oracle Java Foundations (In Progress, concludes 11/2025)
+  - Practical Java development with OOP, Data Structures, and Exception Handling
+- **Competitive Programming Course** — Augusto Galego (2024 — 2025)
+  - Algorithms, Data Structures, and Problem Solving
 
 ---
 
-## 🤝 Contact
-- Email: ricaelmenezes@gmail.com
-- LinkedIn: linkedin.com/in/durand-ricael
+## 🚀 What's Next
+
+Currently building a **Library Management System API** with:
+- Advanced CRUD operations
+- JWT authentication
+- Loan management with automatic fine calculation
+- Swagger/OpenAPI documentation
+- Docker containerization
+
+This project demonstrates enterprise-level API design and best practices.
+
+---
+
+## 🤝 Get in Touch
+
+- **Email:** ricaelmenezes@gmail.com
+- **LinkedIn:** [linkedin.com/in/durand-ricael](https://www.linkedin.com/in/durand-ricael/)
+- **GitHub:** [github.com/Durannd](https://github.com/Durannd)
 
 ---
 
 <p align="center">
-  Made with ❤️ by <!-- TODO: Your name --> Durannd • <i>last update: <!-- TODO: date --> 2025-09-28</i>
+  Made with ❤️ by Ricael • Last updated: December 2025
 </p>
