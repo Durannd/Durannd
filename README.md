@@ -126,21 +126,22 @@ Java • Spring Boot • JWT • PostgreSQL • Swagger • Docker • Maven
 ## 💼 Experience
 
 **Teaching & Mentoring**
-- Developed and taught algorithms and data structures curriculum to 40 students
-- Focused on competitive programming preparation for olympiads and marathons
-- Collaborated with 8 teaching assistants to optimize learning materials
-- Result: Students improved problem-solving skills and participated in programming competitions
+- Developed and taught an algorithms and data structures curriculum to 40 students.
+- Collaborated with 8 teaching assistants to optimize learning materials and scale the impact of the program.
+- Achieved a 280% increase in Brazilian Informatics Olympiad (OBI) registrations through targeted mentorship.
+- Formed 15 unprecedented teams for the InterIF Marathon, the largest student programming competition in Brazil.
 
 ---
 
 ## 🎓 Education & Certifications
 
 - **IFSP** — Integrated High School Technical Course in Informatics for Internet (2024 — Ongoing, concludes 2027)
-- **SENAI** — Oracle Java Foundations (In Progress, concludes 11/2025)
+- **SENAI** — Oracle Java Foundations (2025 - 2025)
   - Practical Java development with OOP, Data Structures, and Exception Handling
 - **Competitive Programming Course** — Augusto Galego (2024 — 2025)
   - Algorithms, Data Structures, and Problem Solving
-
+- **Presbyterian University Mackenzie** (2025 - 2025)
+  - Programming Logic using Swift
 ---
 
 ## 🚀 What's Next
