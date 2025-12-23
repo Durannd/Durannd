@@ -14,7 +14,7 @@
 
 ## 🙋 About me
 
-I'm a backend developer from São Paulo, Brazil, passionate about building scalable REST APIs with Java and Spring Boot. Currently focused on mastering software architecture, clean code principles, and preparing for my first professional role.
+I'm a backend developer from São Paulo, Brazil, passionate about building scalable REST APIs with Java and Spring Boot. Currently focused on mastering software architecture, clean code principles, and modern development practices.
 
 - 🎯 **Goal:** Land a junior backend developer position at an international company
 - 💡 **Interests:** Spring Boot, REST APIs, system design, clean architecture
@@ -98,6 +98,31 @@ Java • Spring Boot • Thymeleaf • PostgreSQL • HTML/CSS
 
 ---
 
+### 3) Library Management API
+**Repository:** [Durannd/library](https://github.com/Durannd/library)
+
+**What it does:**
+Complete REST service for library management featuring user authentication, book inventory control, and loan tracking system.
+
+**Tech Stack:**
+Java • Spring Boot • JWT • PostgreSQL • Swagger • Docker • Maven
+
+**Key Features:**
+- User authentication with JWT tokens
+- Book inventory management with CRUD operations
+- Loan tracking with automatic fine calculation for overdue returns
+- Comprehensive API documentation with Swagger
+- Docker containerization for easy deployment
+
+**What I Learned:**
+- Enterprise-level API design and architecture
+- Automated business logic (fine calculation)
+- API documentation best practices with Swagger/OpenAPI
+- Docker containerization and deployment
+- Advanced Spring Boot features and configurations
+
+---
+
 ## 💼 Experience
 
 **Teaching & Mentoring**
@@ -120,14 +145,11 @@ Java • Spring Boot • Thymeleaf • PostgreSQL • HTML/CSS
 
 ## 🚀 What's Next
 
-Currently building a **Library Management System API** with:
-- Advanced CRUD operations
-- JWT authentication
-- Loan management with automatic fine calculation
-- Swagger/OpenAPI documentation
-- Docker containerization
-
-This project demonstrates enterprise-level API design and best practices.
+Currently exploring advanced backend topics:
+- Microservices architecture
+- Message queuing with RabbitMQ/Kafka
+- Advanced Spring Security features
+- Cloud deployment (AWS/Azure)
 
 ---
 
