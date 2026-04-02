@@ -1,167 +1,99 @@
-<h1 align="center">Hi, I'm Ricael 👋</h1>
+<div align="center">
+  <h1>Hi, I'm Ricael Durand 👋</h1>
+  <h3>Backend Developer | Tech Enthusiast & Continuous Learner</h3>
+  
+  <p>
+    <b>Node.js</b> • <b>Java / Spring Boot</b> • <b>Problem Solving</b>
+  </p>
 
-<p align="center">
-  <b>Backend Developer</b> • Java • Spring Boot • REST APIs • Clean Code
-</p>
-
-<p align="center">
-  <a href="mailto:ricaeldurand@ricaeldurand.com"><img alt="E-mail" src="https://img.shields.io/badge/Email-Send-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/durand-ricael/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Durannd"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
+  <p>
+    <a href="mailto:ricaelmenezes@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/Email-Send-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/durand-ricael/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://ricaeldurand.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  </p>
+</div>
 
 ---
 
-## 🙋 About me
+## 🚀 About Me
 
-I'm a backend developer from São Paulo, Brazil, passionate about building scalable REST APIs with Java and Spring Boot. Currently focused on mastering software architecture, clean code principles, and modern development practices.
+I am a passionate young Backend Developer from São Paulo, Brazil. Currently balancing my Technical Degree at IFSP with real-world industry challenges, I love building APIs and exploring how things work under the hood. 
 
-- 🎯 **Goal:** Land a junior backend developer position at an international company
-- 💡 **Interests:** Spring Boot, REST APIs, system design, clean architecture
-- 📚 **Currently Learning:** Spring Security, Docker, microservices
+I am acting as a Backend Coordinator at **Till**, where I get hands-on experience with real-time solutions and scalability. My goal right now is to absorb as much knowledge as possible, writing clean code and learning the best practices in software architecture. I'm always open to feedback and eager to tackle new challenges that push my boundaries.
+
+- 🎓 **Currently:** Pursuing a Technical Degree in Informatics at IFSP
+- 💼 **Working:** Backend Coordinator @ Till
+- 🌱 **Learning Focus:** System Architecture, Clean Code, and Advanced Spring Boot / Node.js concepts
 - 📍 **Location:** São Paulo, Brazil
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack & Tools
 
-**Languages:**
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
-**Frameworks & Libraries:**
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?logo=spring&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?logo=spring&logoColor=white)
+### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Databases:**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
+### Frontend (Familiar with)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-**Tools & Platforms:**
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+---
+
+## 💼 Experience & Community
+
+### Backend @ Till (Mobility Ecosystem)
+*Tackling real-world scalability and performance challenges.*
+- Helping the team migrate from HTTP polling to real-time tracking using **WebSockets**.
+- Developing and maintaining Node.js (Express) services to support high data volumes.
+- Gaining practical experience in structuring robust and scalable backend systems.
+
+### Teaching & Mentoring
+*Sharing knowledge and growing together.*
+- Taught logic and algorithms to 40 students, helping them prepare for programming competitions.
+- Mentored students for the Brazilian Informatics Olympiad (OBI) and InterIF Marathon, forming multiple successful teams.
 
 ---
 
 ## 🌟 Featured Projects
 
-### 1) MovieFlix - REST API
-**Repository:** [Durannd/MovieFlix](https://github.com/Durannd/MovieFlix)
+### 🏗️ [MergeMind - Developer Marketplace](https://github.com/Durannd) *(In Development)*
+A platform connecting developers to real projects and collaboration opportunities.
+- **Stack:** Java, Spring Boot, Spring Security, JWT, PostgreSQL.
+- **What I'm learning here:** Implementing secure authentication workflows, dynamic database queries, and proper API documentation with Swagger.
 
-**What it does:**
-REST API for movie catalog management with user authentication and role-based access control.
+### 🎬 [MovieFlix - REST API](https://github.com/Durannd/MovieFlix)
+REST API for movie catalog management with role-based access control.
+- **Stack:** Java, Spring Boot, JWT, PostgreSQL.
+- **Key Features:** Role-based authorization (ADMIN/USER), pagination, and custom exception handling.
 
-**Tech Stack:**
-Java • Spring Boot • Spring Security • JWT • PostgreSQL • Maven
-
-**Key Features:**
-- User registration and login with JWT authentication
-- Movie CRUD operations with pagination
-- Role-based authorization (ADMIN, USER)
-- Input validation and error handling
-
-**What I Learned:**
-- Implementing JWT token-based authentication
-- Spring Security configuration and best practices
-- RESTful API design principles
-- Database relationships and JPA mapping
-- Proper error handling with custom exceptions
-
----
-
-### 2) CadastroDeUsuarios - User Management System
-**Repository:** [Durannd/CadastroDeUsuarios](https://github.com/Durannd/CadastroDeUsuarios)
-
-**What it does:**
-Full-stack user registration and management system with web interface.
-
-**Tech Stack:**
-Java • Spring Boot • Thymeleaf • PostgreSQL • HTML/CSS
-
-**Key Features:**
-- User registration with validation
-- User listing and search functionality
-- Update and delete operations
-- Responsive web interface
-
-**What I Learned:**
-- Spring MVC architecture and Thymeleaf templating
-- Form validation and error messages
-- Database transactions and data persistence
-- Layered architecture (Controller → Service → Repository)
-
----
-
-### 3) Library Management API
-**Repository:** [Durannd/library](https://github.com/Durannd/library)
-
-**What it does:**
-Complete REST service for library management featuring user authentication, book inventory control, and loan tracking system.
-
-**Tech Stack:**
-Java • Spring Boot • JWT • PostgreSQL • Swagger • Docker • Maven
-
-**Key Features:**
-- User authentication with JWT tokens
-- Book inventory management with CRUD operations
-- Loan tracking with automatic fine calculation for overdue returns
-- Comprehensive API documentation with Swagger
-- Docker containerization for easy deployment
-
-**What I Learned:**
-- Enterprise-level API design and architecture
-- Automated business logic (fine calculation)
-- API documentation best practices with Swagger/OpenAPI
-- Docker containerization and deployment
-- Advanced Spring Boot features and configurations
-
----
-
-## 💼 Experience
-
-**Teaching & Mentoring**
-- Developed and taught an algorithms and data structures curriculum to 40 students.
-- Collaborated with 8 teaching assistants to optimize learning materials and scale the impact of the program.
-- Achieved a 280% increase in Brazilian Informatics Olympiad (OBI) registrations through targeted mentorship.
-- Formed 15 unprecedented teams for the InterIF Marathon, the largest student programming competition in Brazil.
+### 📚 [Library Management API](https://github.com/Durannd/library)
+REST service for library inventory and loan tracking.
+- **Stack:** Java, Spring Boot, JWT, Docker.
+- **Key Features:** Automated fine calculation for overdue returns and Docker containerization.
 
 ---
 
 ## 🎓 Education & Certifications
 
-- **IFSP** — Integrated High School Technical Course in Informatics for Internet (2024 — Ongoing, concludes 2027)
-- **SENAI** — Oracle Java Foundations (2025 - 2025)
-  - Practical Java development with OOP, Data Structures, and Exception Handling
-- **Data Structure and Algorithms Course** — Augusto Galego (2024 — 2025)
-  - Algorithms, Data Structures, and Problem Solving
-- **Presbyterian University Mackenzie** (2025 - 2025)
-  - Programming Logic using Swift
----
-
-## 🚀 What's Next
-
-Currently exploring advanced backend topics:
-- Microservices architecture
-- Message queuing with RabbitMQ/Kafka
-- Advanced Spring Security features
-- Cloud deployment (AWS/Azure)
+- **IFSP** — Technical Course in Informatics for Internet (2024 — 2027)
+- **Google** — Intro to LLMs & Generative AI (Mar 2026)
+- **Frontend Masters** — Node.js Studies (Jan 2026)
+- **SENAI** — Oracle Java Foundations (2025)
 
 ---
 
-## 🤝 Get in Touch
-
-- **Email:** ricaelmenezes@gmail.com
-- **LinkedIn:** [linkedin.com/in/durand-ricael](https://www.linkedin.com/in/durand-ricael/)
-- **GitHub:** [github.com/Durannd](https://github.com/Durannd)
-
----
-
-<p align="center">
-  Made with ❤️ by Ricael • Last updated: December 2025
-</p>
+<div align="center">
+  <p><i>"Building a solid foundation, one line of code at a time."</i></p>
+  <p>Last updated: April 2026</p>
+</div>
