@@ -127,7 +127,7 @@ Plataforma para conectar desenvolvedores a projetos reais, vagas e colaboração
 ## `> snake --animation`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Durannd/Durannd/output/snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Durannd/Durannd/output/snake-dark.svg" alt="snake animation"/>
 </div>
 
 ---
