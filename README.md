@@ -73,7 +73,7 @@ Desenvolvi e ministrei currículo focado em lógica e algoritmos (C/Java) para *
 ## `> projetos --featured`
 
 ### 🟩 `~/grio`
-**[Griô - Plataforma EdTech (Grafo de Conhecimento)]([#](https://github.com/Durannd/grio)**  
+**[Griô - Plataforma EdTech (Grafo de Conhecimento)](https://github.com/Durannd/grio)**  
 Plataforma educacional focada na democratização do ensino, construída com orquestração pesada de IA (Claude 3.5 Sonnet / Gemini API) usando fluxo "plan-before-code".
 
 **Stack:**  SvelteKit · Python · FastAPI · Neo4j · Redis
