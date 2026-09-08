@@ -23,9 +23,9 @@
 
 ## 🧭 Sobre mim
 
-Sou **Software Engineer** na **[Capital15](https://capital15.com.br)**, securitizadora digital, onde construo uma plataforma SaaS multi-tenant para o mercado de crédito sobre o GCP — monorepo TypeScript, serviços em Cloud Run, Node.js, Fastify e PostgreSQL.
+Sou **Software Engineer** na **[Capital15](https://capital15.com.br)**, securitizadora digital, onde desenvolvo backend em Node.js, TypeScript, Fastify e PostgreSQL sobre o Google Cloud.
 
-É software financeiro, e isso muda a régua: o que envolve dinheiro precisa ser **determinístico, testável e auditável**. A IA entra como componente controlado — lê documentos, extrai e redige atrás de contratos tipados, com validação automática e revisão humana onde a decisão importa.
+É software financeiro, e isso muda a régua. O que envolve dinheiro precisa ser **determinístico, testável e auditável**, então a IA entra como componente controlado: lê documentos, extrai e redige, sempre com validação automática e revisão humana onde a decisão importa.
 
 Também sou criador do **[Griô](https://grio.ricaeldurand.com)**, plataforma educacional adaptativa em operação com estudantes reais.
 
@@ -75,10 +75,10 @@ Também sou criador do **[Griô](https://grio.ricaeldurand.com)**, plataforma ed
 
 ### `ago 2026 — atual` · Software Engineer — Capital15
 
-Plataforma SaaS multi-tenant para o mercado de crédito, sobre **GCP**. Monorepo TypeScript com **Node.js, Fastify, PostgreSQL e Cloud Run**. Respondo por arquitetura, modelagem de domínio e implementação ponta a ponta.
+Desenvolvimento backend num produto SaaS do setor financeiro, sobre **Google Cloud**, com **Node.js, TypeScript, Fastify e PostgreSQL**. Respondo por arquitetura, modelagem de domínio e implementação ponta a ponta.
 
-- Arquitetura de serviços em nuvem **orientada a eventos**, com processamento assíncrono idempotente e recuperação de falhas — nenhuma operação parcial pode deixar o sistema inconsistente.
-- Regra de negócio sensível a dinheiro tratada como **código determinístico e testável**, com a IA atuando como componente controlado: extrai e redige atrás de contratos tipados, com validação automática e revisão humana nos pontos de decisão.
+- Arquitetura de serviços em nuvem **orientada a eventos**, com processamento assíncrono idempotente e recuperação de falhas, para que nenhuma operação parcial deixe o sistema inconsistente.
+- Regra de negócio sensível a dinheiro tratada como **código determinístico e testável**, com a IA atuando como componente controlado: extrai e redige, sempre com validação automática e revisão humana nos pontos de decisão.
 - **Segurança como requisito de arquitetura**: isolamento entre clientes, controle de acesso por identidade, gestão de segredos, trilha de auditoria e ambientes separados por estágio.
 - **Disciplina de dados e testes**: schema versionado por migrations, tipos gerados a partir do banco e suíte automatizada rodando contra banco efêmero nos gates de CI.
 - Interface de operação em **Next.js** com acesso server-side, e recursos conversacionais com **RAG** sobre as mesmas rotas autenticadas do produto.
@@ -168,15 +168,15 @@ Formei 40 alunos em algoritmos e estruturas de dados, contribuindo para **+280% 
 
 ## About me
 
-I’m a **Software Engineer at [Capital15](https://capital15.com.br)**, a digital securitization company, where I build a multi-tenant SaaS platform for the credit market on GCP — a TypeScript monorepo with Cloud Run services, Node.js, Fastify, and PostgreSQL.
+I’m a **Software Engineer at [Capital15](https://capital15.com.br)**, a digital securitization company, where I do backend development in Node.js, TypeScript, Fastify, and PostgreSQL on Google Cloud.
 
-It’s financial software, and that changes the yardstick: anything touching money has to be **deterministic, testable, and auditable**. AI participates as a controlled component — it reads documents, extracts, and drafts behind typed contracts, with automated validation and human review where the decision matters.
+It’s financial software, and that changes the yardstick. Anything touching money has to be **deterministic, testable, and auditable**, so AI participates as a controlled component: it reads documents, extracts, and drafts, always with automated validation and human review where the decision matters.
 
 I’m also the creator of **[Griô](https://grio.ricaeldurand.com)**, an adaptive learning platform serving real students.
 
 ## Experience
 
-- **Software Engineer — Capital15 (current):** multi-tenant SaaS platform for the credit market on GCP — event-driven services, idempotent asynchronous processing, security as an architectural requirement (tenant isolation, identity-based access, secret management, audit trail), and AI kept as a controlled component behind typed contracts. Versioned schema migrations and an automated suite running against an ephemeral database in CI.
+- **Software Engineer — Capital15 (current):** backend development for a SaaS product in financial services on Google Cloud. Event-driven services, idempotent asynchronous processing, security as an architectural requirement, and AI kept as a controlled component with validated output. Node.js, TypeScript, Fastify, PostgreSQL, Docker.
 - **Backend Coordinator — Till (Jan–Aug 2026):** real-time communication with Socket.IO and AsyncAPI contracts, migration from BullMQ workers to Cloud Tasks and Cloud Scheduler, and resilient asynchronous workloads with retry, idempotency, deduplication, and reconciliation.
 - **Creator & Full-stack Software Engineer — Griô:** FastAPI, SvelteKit, PostgreSQL, Neo4j, Redis, RAG, Gemini, and GCP.
 - **Freelance Software Engineer — Exami:** Node.js, React, PostgreSQL, MFA, Google Maps Platform, Docker, and Cloud Run.
