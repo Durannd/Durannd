@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:05070a,20:0b0f14,45:0f172a,75:14532d,100:22c55e&text=Ricael%20Durand&fontColor=e5ffe9&fontSize=58&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%26%20Distributed%20Systems&descAlignY=59&descSize=18" alt="Ricael Durand — Software Engineer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:05070a,20:0b0f14,45:0f172a,75:14532d,100:22c55e&text=Ricael%20Durand&fontColor=e5ffe9&fontSize=58&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%E2%80%A2%20Sistemas%20Distribu%C3%ADdos&descAlignY=59&descSize=18" alt="Ricael Durand — Software Engineer" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2400&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Node.js+%C2%B7+TypeScript+%C2%B7+Java+%C2%B7+Spring+Boot;Event-driven+%C2%B7+Multi-tenant+%C2%B7+GCP;Building+financial+software+at+Capital15;Deterministic+where+it+counts.+AI+where+it+helps.)](https://git.io/typing-svg)
 
@@ -10,9 +10,9 @@
   <a href="mailto:ricaelmenezes@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0b0f14?style=for-the-badge&logo=gmail&logoColor=22c55e" alt="Email"/></a>
 </p>
 
-![Role](https://img.shields.io/badge/ROLE-Backend_Engineering-0b0f14?style=flat-square&labelColor=14532d)
+![Role](https://img.shields.io/badge/ROLE-Software_Engineer-0b0f14?style=flat-square&labelColor=14532d)
 ![Location](https://img.shields.io/badge/BASE-São_Paulo,_BR-0b0f14?style=flat-square&labelColor=14532d)
-![Current](https://img.shields.io/badge/BUILDING-Credit_Infrastructure-0b0f14?style=flat-square&labelColor=14532d)
+![Current](https://img.shields.io/badge/BUILDING-Backend_Systems-0b0f14?style=flat-square&labelColor=14532d)
 ![Focus](https://img.shields.io/badge/FOCUS-Distributed_Systems-0b0f14?style=flat-square&labelColor=14532d)
 
 <sub>🇧🇷 <a href="#-sobre-mim">PT-BR</a> &nbsp;•&nbsp; 🇺🇸 <a href="#-english-version">English</a></sub>
